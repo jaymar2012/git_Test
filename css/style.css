@@ -12,8 +12,12 @@ main {
 }
 
 p {
-  color: blueviolet;
+  /*color: blueviolet;*/
   text-align: left;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
